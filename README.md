@@ -215,7 +215,7 @@ Let's add a matrix strategy to the **My Starter Workflow** so we can run our job
   TBD-step-4-notes.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Merge your changes</h2></summary>
 
 _Nicely done! :partying_face:_
@@ -242,7 +242,7 @@ You may not have noticed yet, but I've opened up a pull request called **Reusabl
   TBD-step-5-notes.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Trigger your workflow and view the Actions logs</h2></summary>
 
 _You're almost done. Last step! :heart:_
