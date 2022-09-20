@@ -99,7 +99,7 @@ Let's get started with our first step to see how this would work!
   TBD-step-2-notes.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add a job to call the reusable workflow</h2></summary>
 
 _Nice work! :tada: You made a workflow reusable!_
@@ -164,7 +164,7 @@ Okay, now that we know what the reusable workflow is doing, let's now add a new 
   TBD-step-3-notes.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Add a matrix strategy to your workflow</h2></summary>
 
 _Well done! :sparkles:_
